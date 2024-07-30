@@ -8,7 +8,7 @@ Image segmentation is a crucial task in computer vision, involving the partition
 
 ## Contents
 
-- **notebook/:** Jupyter notebook containing the project code and experiments
+- **notebook/:** Jupyter notebook containing the project code and experiment
 - **data/:** [Sample dataset used for training and testing](https://github.com/VikramShenoy97/Human-Segmentation-Dataset)
 - **README.md:** Project documentation (this file)
 
