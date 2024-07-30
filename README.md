@@ -9,7 +9,7 @@ Image segmentation is a crucial task in computer vision, involving the partition
 ## Contents
 
 - **notebooks/:** Jupyter notebooks containing the project code and experiments
-- **data/:** Sample dataset used for training and testing
+- **data/:** [Sample dataset used for training and testing] (https://github.com/VikramShenoy97/Human-Segmentation-Dataset)
 - **README.md:** Project documentation (this file)
 
 ## Prerequisites
@@ -64,6 +64,6 @@ The model achieves good accuracy in segmenting images from the given dataset. Sa
 
 ## Acknowledgments
 
- - Coursera and the instructor for the guided project.
+ - Coursera and the [instructor] (https://github.com/parth1620) for the guided project.
  - Authors of the U-Net architecture.
  - PyTorch community for the excellent deep learning framework.
