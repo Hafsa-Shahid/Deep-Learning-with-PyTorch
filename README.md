@@ -26,7 +26,7 @@ Before running the code, ensure you have the following dependencies installed:
 
 You can install the required packages using the following command:
 
-           - !pip install torch torchvision numpy matplotlib scikit-image jupyter
+            !pip install torch torchvision numpy matplotlib scikit-image jupyter
   
 ## Getting Started
 
@@ -43,7 +43,9 @@ You can install the required packages using the following command:
 The U-Net architecture consists of an encoder-decoder structure:
 
 Encoder: Captures context using convolutional layers and downsampling.
+
 Decoder: Enables precise localization using upsampling and concatenation with high-resolution features from the encoder.
+
 Here we have used efficientnet encoder and the weights of imagenet dataset, and these can be experimented for different scenarios.
 
 ## About the Project
@@ -57,6 +59,7 @@ Here we have used efficientnet encoder and the weights of imagenet dataset, and 
 ## Results
 
 The model achieves good accuracy in segmenting images from the given dataset. Sample result is shown below:
+
 ![image](https://github.com/user-attachments/assets/cc65137c-253c-4de0-8e31-22caf282164b)
 
 ## Contributions 
