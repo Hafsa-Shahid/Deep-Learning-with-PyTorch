@@ -25,6 +25,7 @@ Before running the code, ensure you have the following dependencies installed:
 - jupyter
 
 You can install the required packages using the following command:
+
            - !pip install torch torchvision numpy matplotlib scikit-image jupyter
   
 ## Getting Started
