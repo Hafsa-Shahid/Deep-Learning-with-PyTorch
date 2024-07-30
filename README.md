@@ -23,7 +23,7 @@ Before running the code, ensure you have the following dependencies installed:
 - matplotlib
 - scikit-image
 - jupyter
-- 
+
 You can install the required packages using the following command:
            - !pip install torch torchvision numpy matplotlib scikit-image jupyter
   
